@@ -1,5 +1,3 @@
-// I completed the Bonus part of the homework and my Sum function starting address is beginning the 25
-
 0: CP 42 100   // argument copy
 1: CP 43 90    // argument copy
 2: CP 50 35    // goto JUMP1
@@ -98,7 +96,7 @@
 141: 8
 142: 1   // last grade of Section B   
 
-146: 150 // divider start address , divider function
+146: 150 // divider start address, divider function
 147: 0   // operand 1
 148: 0   // operand 2
 149: 0   // result
@@ -118,4 +116,4 @@
 170: 0 // temp
 171: 0 // temp2
 172: 0 // temp3
-173: 0 // temp4                      , end of divider 
+173: 0 // temp4, end of divider 
