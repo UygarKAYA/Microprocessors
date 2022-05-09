@@ -85,7 +85,7 @@ void go_back() {
 void loop() {
   positionVal = reflectanceSensors.readLine(sensorValues);
   if(mostLeftSensor() == 1) {
-	  go_back();
+    go_back();
     delay(350);
     turnRight();
     delay(100);
